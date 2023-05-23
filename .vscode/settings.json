@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "VendingMachine/src",
+        "Patterns/3.Adapter-source/src/meteo",
+        "Patterns/2.Observer-resolve/src/jobagency",
+        "Patterns/1.DecoratorFactory-source/src",
+        "Patterns/1.DecoratorFactory-resolve/src/calculator",
+        "Patterns/0.Fabric",
+        "Patterns/3.Adapter-resolve/src/meteo"
+    ]
+}
